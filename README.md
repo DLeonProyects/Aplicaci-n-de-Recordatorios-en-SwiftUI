@@ -23,8 +23,8 @@ Esta es una aplicación de recordatorios desarrollada en SwiftUI. La aplicación
 1. **Clona el repositorio:**
 
     ```bash
-    git clone https://github.com/tu_usuario/nombre_del_repositorio.git
-    cd nombre_del_repositorio
+    git clone [https://github.com/tu_usuario/nombre_del_repositorio.git](https://github.com/DLeonProyects/Aplicaci-n-de-Recordatorios-en-SwiftUI)
+    cd Aplicaci-n-de-Recordatorios-en-SwiftUI
     ```
 
 2. **Abre el proyecto en Xcode:**
